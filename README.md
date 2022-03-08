@@ -1,16 +1,16 @@
 ### Hey there 👋
 
-I'm a software engineer, indie game developer, and car enthusiast. I love to build things.
+I'm Garrett, and I'm a software engineer, indie game developer, and hobbyist mechanic. I love to build things.
 
 I'm working on a full featured sequel to my game [Planet Jumpers 🪐](https://garrettmakesgames.itch.io/planet-jumpers)
 
-🎮 My indie games on [Itch.io](https://garrettmakesgames.itch.io/)
+### 🎮 [My Games on Itch.io](https://garrettmakesgames.itch.io/)
 
-🐦 My Twitter for game dev stuff [@garrett_makes](twitter.com/garrett_makes) 
+### 🐦 [Twitter @garrett_makes](twitter.com/garrett_makes) 
 
-✍️ I have a blog that I post on occasionally - [garrettallen.dev](https://garrettallen.dev) 
+### ✍️ [Personal Blog garrettallen.dev](https://garrettallen.dev) 
 
-☑️ Recent project - [Easy collaborative todo-list https://quicktodos.com](https://quicktodos.com) 
+### ☑️ [QuickTodos.com - Easy collaborative to-do lists](https://quicktodos.com) 
 
 <!--
 **adrenallen/adrenallen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
