@@ -1,6 +1,6 @@
-### Hey there 👋
+### Hey there, I'm Garrett 👋
 
-I'm Garrett, and I'm a software engineer, indie game developer, and hobbyist mechanic. I love to build things.
+I'm a software engineer, indie game developer, and hobbyist mechanic. I love to build things.
 
 I'm working on a full featured sequel to my game [Planet Jumpers 🪐](https://garrettmakesgames.itch.io/planet-jumpers)
 
