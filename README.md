@@ -2,8 +2,6 @@
 
 I'm a software engineer, indie game developer, and hobbyist mechanic. I love to build things.
 
-I'm working on a full featured sequel to my game [Planet Jumpers 🪐](https://garrettmakesgames.itch.io/planet-jumpers)
-
 ### 🎮 [My Games on Itch.io](https://garrettmakesgames.itch.io/)
 
 ### 🐦 [Twitter @garrett_makes](twitter.com/garrett_makes) 
