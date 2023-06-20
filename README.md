@@ -1,12 +1,10 @@
 ### Hey there, I'm Garrett 👋
 
-I'm a software engineer, indie game developer, and hobbyist mechanic. I love to build things.
+I'm a software engineer that loves to build things.
 
 ### 🎮 [My Games on Itch.io](https://garrettmakesgames.itch.io/)
 
 ### 🐦 [Twitter @garrett_makes](twitter.com/garrett_makes) 
-
-### ✍️ [Personal Blog garrettallen.dev](https://garrettallen.dev) 
 
 ### ☑️ [QuickTodos.com - Easy collaborative to-do lists](https://quicktodos.com) 
 
