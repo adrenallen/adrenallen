@@ -2,8 +2,6 @@
 
 I'm a software engineer that loves to build things.
 
-### 🎮 [My Games on Itch.io](https://garrettmakesgames.itch.io/)
-
 ### 🐦 [Twitter @garrett_makes](twitter.com/garrett_makes) 
 
 ### @ [Threads @garrett_makes](https://www.threads.net/@garrett_makes)
