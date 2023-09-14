@@ -1,10 +1,8 @@
 ### Hey there, I'm Garrett 👋
 
-I'm a software engineer that loves to build things.
+I'm a software engineer that loves to build things!
 
 ### 🐦 [Twitter @garrett_makes](twitter.com/garrett_makes) 
-
-### @ [Threads @garrett_makes](https://www.threads.net/@garrett_makes)
 
 ### ☑️ [QuickTodos.com - Easy collaborative to-do lists](https://quicktodos.com) 
 
