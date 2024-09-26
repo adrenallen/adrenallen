@@ -4,9 +4,9 @@ I'm a software engineer that loves to build things!
 
 ### 🐦 [Twitter @garrett_makes](twitter.com/garrett_makes) 
 
-### 🤖 [Laravel AI Agents - Add AI to your Laravel project in <5 minutes](https://github.com/adrenallen/ai-agents-laravel)
+### 🤠 [LoadPartner.io - Next Gen Freight Solutions](https://loadpartner.io)
 
-### 🤠 [LoadPartner.io - 24/7 AI Load Coordinator](https://loadpartner.io)
+### 🤖 [Laravel AI Agents - Add AI to your Laravel project in <5 minutes](https://github.com/adrenallen/ai-agents-laravel)
 
 ### ☑️ [QuickTodos.com - Easy collaborative to-do lists](https://quicktodos.com) 
 
