@@ -1,7 +1,5 @@
 ### Hey there, I'm Garrett 👋
 
-I'm a software engineer that loves to build things!
-
 ### 🐦 [Twitter @garrett_makes](twitter.com/garrett_makes) 
 
 ### 🤠 [LoadPartner.io - Next Gen Freight Solutions](https://loadpartner.io)
