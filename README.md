@@ -13,5 +13,5 @@
 ## Projects
 
 ### 📦 [LoadPartner TMS - Open-source TMS for freight brokers](https://github.com/loadpartner/tms)
-### 🤖 [Laravel AI Agents - Add AI to your Laravel project in <5 minutes](https://github.com/adrenallen/ai-agents-laravel)
+### 🤖 [AI Agents for Laravel - Add AI to your Laravel project in <5 minutes](https://github.com/adrenallen/ai-agents-laravel)
 ### ☑️ [QuickTodos.com - Easy collaborative to-do lists](https://quicktodos.com)
