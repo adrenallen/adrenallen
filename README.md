@@ -1,28 +1,17 @@
-### Hey there, I'm Garrett 👋
+## Hey there, I'm Garrett 👋
 
 ### 🐦 [Twitter @garrett_makes](twitter.com/garrett_makes) 
+### 📺 [Youtube - Shorts/Videos](https://www.youtube.com/@garrett_makes)
+### 🎥 [Twitch - Weekly streams](https://www.twitch.tv/garrett_makes)
 
-### 🤠 [LoadPartner.io - Next Gen Freight Solutions](https://loadpartner.io)
+## Work
 
-### 🧑‍💻 [UserDefined.io - Software Development](https://userdefined.io)
+### 🤠 [LoadPartner - Next Gen Freight Solutions](https://loadpartner.io)
+### 🚀 [Vouch - Tech Consulting for Freight Brokerages](https://canvouch.com)
+### 🧑‍💻 [UserDefined - General Dev Consulting](https://userdefined.io)
 
+## Projects
+
+### 📦 [LoadPartner TMS - Open-source TMS for freight brokers](https://github.com/loadpartner/tms)
 ### 🤖 [Laravel AI Agents - Add AI to your Laravel project in <5 minutes](https://github.com/adrenallen/ai-agents-laravel)
-
 ### ☑️ [QuickTodos.com - Easy collaborative to-do lists](https://quicktodos.com)
-
-
-
-<!--
-**adrenallen/adrenallen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
