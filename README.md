@@ -18,3 +18,5 @@
 ### 🚀 [Vouch - Tech Consulting for Freight Brokerages](https://canvouch.com)
 ### 🧑‍💻 [UserDefined - General Dev Consulting](https://userdefined.io)
 
+## Other
+### 📝 [Builder Notes - Personal stash of tips and tricks for building apps](https://github.com/adrenallen/builder-notes)
