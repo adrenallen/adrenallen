@@ -1,6 +1,6 @@
 ## Hey there, I'm Garrett 👋
 
-### 🖼️ [GarrettMakes.com](https://garrettmakes.com)
+### 🖼️ [Portfolio - GarrettMakes.com](https://garrettmakes.com)
 ### 🐦 [Twitter @garrett_makes](twitter.com/garrett_makes) 
 ### 📺 [Youtube - Shorts/Videos](https://www.youtube.com/@garrett_makes)
 ### 🎥 [Twitch - Live streams](https://www.twitch.tv/garrett_makes)
